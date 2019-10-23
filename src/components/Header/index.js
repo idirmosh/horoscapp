@@ -13,7 +13,9 @@ function Header() {
         </div>
         <div className='flex'>
           <li className='mr-6'>
-            <a className='text-white hover:text-gray-300' href='/'>
+            <a
+              className='text-white hover:text-gray-300'
+              href='https://github.com/ayradc/horoscapp'>
               Github Repo
             </a>
           </li>

@@ -28,18 +28,18 @@ const items = [
   },
   {
     id: 6,
+    name: 'Virgo',
+    icon: ALL.Virgo
+  },
+  {
+    id: 7,
     name: 'Libra',
     icon: ALL.Libra
   },
   {
-    id: 7,
+    id: 8,
     name: 'Scorpio',
     icon: ALL.Scorpio
-  },
-  {
-    id: 8,
-    name: 'Virgo',
-    icon: ALL.Virgo
   },
   {
     id: 9,

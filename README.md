@@ -2,4 +2,4 @@
 
 simple astrlogy daily horoscopes app.
 
-Open [https://horoscapp.netlify.com/](View Demo)
+Open [https://horoscapp.netlify.com](View Demo)

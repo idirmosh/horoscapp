@@ -1,7 +1,6 @@
 ## HoroscAPP
 
-simple astrlogy daily horoscopes app.
+A simple astrlogy daily, horoscopes app.[View Demo](https://horoscapp.netlify.com "Horoscapp Homepage")
 
-Open [https://horoscapp.netlify.com](View Demo)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
